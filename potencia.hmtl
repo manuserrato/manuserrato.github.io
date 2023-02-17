@@ -1,0 +1,9 @@
+Potencia de x <br>
+
+Realizado por Manuel Serrato, Lorenza Montalvo, Diego Herrera <br>
+
+x = 2 <br>
+n= 3 <br>
+y = potencia(x, n) <br>
+
+y -> 8
